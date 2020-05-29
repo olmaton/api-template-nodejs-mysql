@@ -1,0 +1,9 @@
+npm init --yes
+npm i express jsonwebtoken bcrypt body-parser dotenv mysql2
+npm i -D nodemon
+//agregar package.json -> "scripts"
+"dev": "nodemon index.js"
+//Editar .env con datos del servidor
+
+//Cuando se clone, solamente
+npm install
