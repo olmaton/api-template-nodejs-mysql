@@ -7,3 +7,5 @@ npm i -D nodemon
 
 //Cuando se clone, solamente
 npm install
+
+http://localhost:5001/api/v1/usuarios/registrar-usuario
